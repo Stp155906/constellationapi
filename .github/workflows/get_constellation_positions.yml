@@ -11,12 +11,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3  # Use the latest version of the action
+        uses: actions/checkout@v3  # Update to the latest version
 
       - name: Set up Python
-        uses: actions/setup-python@v3  # Use the latest version of the action
+        uses: actions/setup-python@v4  # Update to the latest version
         with:
-          python-version: 3.10
+          python-version: '3.10'  # Use a valid Python version
 
       - name: Install dependencies
         run: pip install skyfield pandas
