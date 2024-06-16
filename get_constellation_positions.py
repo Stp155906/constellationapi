@@ -7,19 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1T9-5eBrLKRTGzTOsUDj0ezheKsrQn8_8
 """
 
-!pip install skyfield
-
 from skyfield.api import load, Topos, Star
-from skyfield.data import hipparcos
-from datetime import datetime
-import json
-
-import json
 from datetime import datetime, timedelta
-from skyfield.api import load, Topos, Star, load_constellation_map
+import json
 
 # Define a few key stars in selected constellations
-# (These are examples; you can choose your own set of stars)
 key_stars = {
     'Sirius': (6.7525694, -16.7161085),  # RA, Dec for Sirius in Canis Major
     'Betelgeuse': (5.9195293, 7.407064),  # RA, Dec for Betelgeuse in Orion
