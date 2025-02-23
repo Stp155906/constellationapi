@@ -4,7 +4,6 @@
     "latitude": 40.7128,
     "longitude": -74.006,
     "star_data_by_hour": {
-      "2025-02-23T17:00:00": [],
       "2025-02-23T18:00:00": [],
       "2025-02-23T19:00:00": [],
       "2025-02-23T20:00:00": [],
@@ -25,44 +24,45 @@
       "2025-02-24T11:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 64.05204314117641,
-          "azimuth_degrees": 83.05850323157959,
-          "distance_au": 206264806247097.3
+          "altitude_degrees": 64.0520595853849,
+          "azimuth_degrees": 83.05851337238386,
+          "distance_au": 206264806247097.34
         }
       ],
       "2025-02-24T12:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 75.42678660937634,
-          "azimuth_degrees": 91.40761684388482,
+          "altitude_degrees": 75.42680320416335,
+          "azimuth_degrees": 91.40763269684189,
           "distance_au": 206264806247097.3
         }
       ],
       "2025-02-24T13:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 86.51556993824492,
-          "azimuth_degrees": 122.07639785951595,
-          "distance_au": 206264806247097.28
+          "altitude_degrees": 86.51558403287373,
+          "azimuth_degrees": 122.07655724655285,
+          "distance_au": 206264806247097.34
         }
       ],
       "2025-02-24T14:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 81.14732818209497,
-          "azimuth_degrees": 261.1730167672062,
+          "altitude_degrees": 81.14731171138688,
+          "azimuth_degrees": 261.17304753274254,
           "distance_au": 206264806247097.28
         }
       ],
       "2025-02-24T15:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 69.77203608017157,
-          "azimuth_degrees": 273.1844789007952,
-          "distance_au": 206264806247097.25
+          "altitude_degrees": 69.77201940367297,
+          "azimuth_degrees": 273.18449075559016,
+          "distance_au": 206264806247097.28
         }
       ],
-      "2025-02-24T16:00:00": []
+      "2025-02-24T16:00:00": [],
+      "2025-02-24T17:00:00": []
     }
   },
   "europe": {
@@ -70,7 +70,6 @@
     "latitude": 48.8566,
     "longitude": 2.3522,
     "star_data_by_hour": {
-      "2025-02-23T17:00:00": [],
       "2025-02-23T18:00:00": [],
       "2025-02-23T19:00:00": [],
       "2025-02-23T20:00:00": [],
@@ -86,40 +85,40 @@
       "2025-02-24T06:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 64.59247326732125,
-          "azimuth_degrees": 100.95170942285245,
-          "distance_au": 206264806247097.3
+          "altitude_degrees": 64.5924872391226,
+          "azimuth_degrees": 100.95173140307435,
+          "distance_au": 206264806247097.38
         }
       ],
       "2025-02-24T07:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 73.82661104038785,
-          "azimuth_degrees": 121.8331208080063,
+          "altitude_degrees": 73.82662315605104,
+          "azimuth_degrees": 121.83316306518856,
           "distance_au": 206264806247097.38
         }
       ],
       "2025-02-24T08:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 79.76644976375097,
-          "azimuth_degrees": 168.36098542289133,
+          "altitude_degrees": 79.7664526467447,
+          "azimuth_degrees": 168.36107930760684,
           "distance_au": 206264806247097.38
         }
       ],
       "2025-02-24T09:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 76.57209726283152,
-          "azimuth_degrees": 226.13292606572446,
-          "distance_au": 206264806247097.38
+          "altitude_degrees": 76.5720869388875,
+          "azimuth_degrees": 226.13298402074736,
+          "distance_au": 206264806247097.4
         }
       ],
       "2025-02-24T10:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 67.95963455104862,
-          "azimuth_degrees": 253.18272919241545,
+          "altitude_degrees": 67.95962081516195,
+          "azimuth_degrees": 253.1827558713814,
           "distance_au": 206264806247097.28
         }
       ],
@@ -128,7 +127,8 @@
       "2025-02-24T13:00:00": [],
       "2025-02-24T14:00:00": [],
       "2025-02-24T15:00:00": [],
-      "2025-02-24T16:00:00": []
+      "2025-02-24T16:00:00": [],
+      "2025-02-24T17:00:00": []
     }
   },
   "asia": {
@@ -136,48 +136,47 @@
     "latitude": 35.6895,
     "longitude": 139.6917,
     "star_data_by_hour": {
-      "2025-02-23T17:00:00": [],
       "2025-02-23T18:00:00": [],
       "2025-02-23T19:00:00": [],
       "2025-02-23T20:00:00": [],
       "2025-02-23T21:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 65.4425800608369,
-          "azimuth_degrees": 73.48118902552113,
+          "altitude_degrees": 65.44259653001103,
+          "azimuth_degrees": 73.48119067532421,
           "distance_au": 206264806247097.3
         }
       ],
       "2025-02-23T22:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 77.13327138135313,
-          "azimuth_degrees": 71.34442019063182,
+          "altitude_degrees": 77.13328771047532,
+          "azimuth_degrees": 71.34440843470009,
           "distance_au": 206264806247097.28
         }
       ],
       "2025-02-23T23:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 86.8451007058203,
-          "azimuth_degrees": 9.47492290083736,
-          "distance_au": 206264806247097.28
+          "altitude_degrees": 86.84510355215657,
+          "azimuth_degrees": 9.474625895212933,
+          "distance_au": 206264806247097.25
         }
       ],
       "2025-02-24T00:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 78.15590666485568,
-          "azimuth_degrees": 289.49269563740705,
+          "altitude_degrees": 78.1558903115216,
+          "azimuth_degrees": 289.49268049555593,
           "distance_au": 206264806247097.3
         }
       ],
       "2025-02-24T01:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 66.48010770278381,
-          "azimuth_degrees": 286.4296272058366,
-          "distance_au": 206264806247097.25
+          "altitude_degrees": 66.48009102839127,
+          "azimuth_degrees": 286.42962839548886,
+          "distance_au": 206264806247097.34
         }
       ],
       "2025-02-24T02:00:00": [],
@@ -191,24 +190,25 @@
       "2025-02-24T10:00:00": [
         {
           "star_name": "Betelgeuse",
-          "altitude_degrees": 61.36606033087243,
-          "azimuth_degrees": 169.80083862669304,
-          "distance_au": 206264806247095.9
+          "altitude_degrees": 61.36606346742306,
+          "azimuth_degrees": 169.80088328093638,
+          "distance_au": 206264806247095.84
         }
       ],
       "2025-02-24T11:00:00": [
         {
           "star_name": "Betelgeuse",
-          "altitude_degrees": 60.23769891635827,
-          "azimuth_degrees": 200.57503108827873,
-          "distance_au": 206264806247095.94
+          "altitude_degrees": 60.2376926783323,
+          "azimuth_degrees": 200.57507289910964,
+          "distance_au": 206264806247095.84
         }
       ],
       "2025-02-24T12:00:00": [],
       "2025-02-24T13:00:00": [],
       "2025-02-24T14:00:00": [],
       "2025-02-24T15:00:00": [],
-      "2025-02-24T16:00:00": []
+      "2025-02-24T16:00:00": [],
+      "2025-02-24T17:00:00": []
     }
   },
   "australia": {
@@ -216,7 +216,6 @@
     "latitude": -33.8688,
     "longitude": 151.2093,
     "star_data_by_hour": {
-      "2025-02-23T17:00:00": [],
       "2025-02-23T18:00:00": [],
       "2025-02-23T19:00:00": [],
       "2025-02-23T20:00:00": [],
@@ -234,53 +233,54 @@
       "2025-02-24T08:00:00": [
         {
           "star_name": "Rigel",
-          "altitude_degrees": 61.54076733058365,
-          "azimuth_degrees": 28.48994597618992,
-          "distance_au": 206264806247096.5
+          "altitude_degrees": 61.540775932917235,
+          "azimuth_degrees": 28.489904630067837,
+          "distance_au": 206264806247096.44
         }
       ],
       "2025-02-24T09:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 64.62278687180469,
-          "azimuth_degrees": 52.74658981914734,
+          "altitude_degrees": 64.6228012560963,
+          "azimuth_degrees": 52.746554627855936,
           "distance_au": 206264806247096.16
         },
         {
           "star_name": "Rigel",
-          "altitude_degrees": 64.25432330232175,
-          "azimuth_degrees": 355.97514031401676,
+          "altitude_degrees": 64.2543220338923,
+          "azimuth_degrees": 355.9750908038586,
           "distance_au": 206264806247096.5
         }
       ],
       "2025-02-24T10:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 72.09328307756509,
-          "azimuth_degrees": 18.436928488056743,
-          "distance_au": 206264806247096.16
+          "altitude_degrees": 72.09328880469799,
+          "azimuth_degrees": 18.43686316645246,
+          "distance_au": 206264806247096.06
         }
       ],
       "2025-02-24T11:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 70.98120585499134,
-          "azimuth_degrees": 331.9354558059042,
-          "distance_au": 206264806247096.16
+          "altitude_degrees": 70.98119731775581,
+          "azimuth_degrees": 331.93539717178544,
+          "distance_au": 206264806247096.2
         }
       ],
       "2025-02-24T12:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 62.311514903602145,
-          "azimuth_degrees": 302.16094708652923,
-          "distance_au": 206264806247096.1
+          "altitude_degrees": 62.311499510027545,
+          "azimuth_degrees": 302.1609164367407,
+          "distance_au": 206264806247096.16
         }
       ],
       "2025-02-24T13:00:00": [],
       "2025-02-24T14:00:00": [],
       "2025-02-24T15:00:00": [],
-      "2025-02-24T16:00:00": []
+      "2025-02-24T16:00:00": [],
+      "2025-02-24T17:00:00": []
     }
   },
   "africa": {
@@ -288,57 +288,37 @@
     "latitude": -1.2921,
     "longitude": 36.8219,
     "star_data_by_hour": {
-      "2025-02-23T17:00:00": [
-        {
-          "star_name": "Sirius",
-          "altitude_degrees": 67.99661162197093,
-          "azimuth_degrees": 135.50829077929174,
-          "distance_au": 206264806247096.1
-        },
-        {
-          "star_name": "Betelgeuse",
-          "altitude_degrees": 80.63143387428318,
-          "azimuth_degrees": 21.68034415660132,
-          "distance_au": 206264806247095.9
-        },
-        {
-          "star_name": "Rigel",
-          "altitude_degrees": 80.3994072018961,
-          "azimuth_degrees": 223.9918964825179,
-          "distance_au": 206264806247096.4
-        }
-      ],
       "2025-02-23T18:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 74.52371881446282,
-          "azimuth_degrees": 176.86658436604432,
-          "distance_au": 206264806247096.22
+          "altitude_degrees": 74.52371995885458,
+          "azimuth_degrees": 176.86665939698534,
+          "distance_au": 206264806247096.16
         },
         {
           "star_name": "Betelgeuse",
-          "altitude_degrees": 75.54897540626295,
-          "azimuth_degrees": 307.1934675166536,
-          "distance_au": 206264806247096.03
+          "altitude_degrees": 75.5489587282381,
+          "azimuth_degrees": 307.1934179330465,
+          "distance_au": 206264806247096.0
         },
         {
           "star_name": "Rigel",
-          "altitude_degrees": 67.26030552964,
-          "azimuth_degrees": 251.69184357931078,
+          "altitude_degrees": 67.26028565289208,
+          "azimuth_degrees": 251.69185879872683,
           "distance_au": 206264806247096.5
         }
       ],
       "2025-02-23T19:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 69.18457067026354,
-          "azimuth_degrees": 221.26902796894876,
-          "distance_au": 206264806247096.16
+          "altitude_degrees": 69.18455681475848,
+          "azimuth_degrees": 221.26906902514708,
+          "distance_au": 206264806247096.1
         },
         {
           "star_name": "Betelgeuse",
-          "altitude_degrees": 62.06867008318923,
-          "azimuth_degrees": 288.54038262083077,
+          "altitude_degrees": 62.06865016735354,
+          "azimuth_degrees": 288.5403695486053,
           "distance_au": 206264806247095.9
         }
       ],
@@ -364,23 +344,43 @@
       "2025-02-24T15:00:00": [
         {
           "star_name": "Rigel",
-          "altitude_degrees": 66.6765201910196,
-          "azimuth_degrees": 107.87339945980439,
-          "distance_au": 206264806247096.44
+          "altitude_degrees": 66.67654115719992,
+          "azimuth_degrees": 107.8734146444617,
+          "distance_au": 206264806247096.4
         }
       ],
       "2025-02-24T16:00:00": [
         {
           "star_name": "Betelgeuse",
-          "altitude_degrees": 70.46445262250248,
-          "azimuth_degrees": 63.29557294525656,
-          "distance_au": 206264806247095.94
+          "altitude_degrees": 70.46447234241019,
+          "azimuth_degrees": 63.295544489267066,
+          "distance_au": 206264806247095.84
         },
         {
           "star_name": "Rigel",
-          "altitude_degrees": 79.96325509689585,
-          "azimuth_degrees": 133.5227322399971,
-          "distance_au": 206264806247096.44
+          "altitude_degrees": 79.96327110309304,
+          "azimuth_degrees": 133.52281763155585,
+          "distance_au": 206264806247096.47
+        }
+      ],
+      "2025-02-24T17:00:00": [
+        {
+          "star_name": "Sirius",
+          "altitude_degrees": 68.6763464954319,
+          "azimuth_degrees": 137.28276107662393,
+          "distance_au": 206264806247096.1
+        },
+        {
+          "star_name": "Betelgeuse",
+          "altitude_degrees": 80.94927729216204,
+          "azimuth_degrees": 15.901492797986071,
+          "distance_au": 206264806247095.84
+        },
+        {
+          "star_name": "Rigel",
+          "altitude_degrees": 79.69087872327303,
+          "azimuth_degrees": 227.875568105469,
+          "distance_au": 206264806247096.38
         }
       ]
     }
@@ -390,60 +390,59 @@
     "latitude": -23.5505,
     "longitude": -46.6333,
     "star_data_by_hour": {
-      "2025-02-23T17:00:00": [],
       "2025-02-23T18:00:00": [],
       "2025-02-23T19:00:00": [],
       "2025-02-23T20:00:00": [],
       "2025-02-23T21:00:00": [
         {
           "star_name": "Rigel",
-          "altitude_degrees": 67.89915637960813,
-          "azimuth_degrees": 48.6172629912224,
-          "distance_au": 206264806247096.5
+          "altitude_degrees": 67.89917092720984,
+          "azimuth_degrees": 48.617222975664156,
+          "distance_au": 206264806247096.44
         }
       ],
       "2025-02-23T22:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 66.35341897969153,
-          "azimuth_degrees": 77.76756575107068,
-          "distance_au": 206264806247096.16
+          "altitude_degrees": 66.35343799056673,
+          "azimuth_degrees": 77.76754785947016,
+          "distance_au": 206264806247096.2
         },
         {
           "star_name": "Rigel",
-          "altitude_degrees": 74.55441923939823,
-          "azimuth_degrees": 5.692662413779075,
-          "distance_au": 206264806247096.5
+          "altitude_degrees": 74.55442116893093,
+          "azimuth_degrees": 5.692583879222778,
+          "distance_au": 206264806247096.47
         }
       ],
       "2025-02-23T23:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 79.06702506859169,
-          "azimuth_degrees": 53.17851715203651,
-          "distance_au": 206264806247096.12
+          "altitude_degrees": 79.06704069149585,
+          "azimuth_degrees": 53.178448093897465,
+          "distance_au": 206264806247096.16
         },
         {
           "star_name": "Rigel",
-          "altitude_degrees": 69.899657888762,
-          "azimuth_degrees": 317.70452522927184,
+          "altitude_degrees": 69.89964475519746,
+          "azimuth_degrees": 317.7044772757277,
           "distance_au": 206264806247096.44
         }
       ],
       "2025-02-24T00:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 81.21706807276385,
-          "azimuth_degrees": 319.70874486259214,
+          "altitude_degrees": 81.21705541087714,
+          "azimuth_degrees": 319.7086396638701,
           "distance_au": 206264806247096.2
         }
       ],
       "2025-02-24T01:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 69.20703467859873,
-          "azimuth_degrees": 285.21936364097,
-          "distance_au": 206264806247096.16
+          "altitude_degrees": 69.20701574542781,
+          "azimuth_degrees": 285.21934152393476,
+          "distance_au": 206264806247096.1
         }
       ],
       "2025-02-24T02:00:00": [],
@@ -460,7 +459,8 @@
       "2025-02-24T13:00:00": [],
       "2025-02-24T14:00:00": [],
       "2025-02-24T15:00:00": [],
-      "2025-02-24T16:00:00": []
+      "2025-02-24T16:00:00": [],
+      "2025-02-24T17:00:00": []
     }
   }
 }
