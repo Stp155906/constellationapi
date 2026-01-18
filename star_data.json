@@ -4,7 +4,6 @@
     "latitude": 40.7128,
     "longitude": -74.006,
     "star_data_by_hour": {
-      "2026-01-18T19:00:00": [],
       "2026-01-18T20:00:00": [],
       "2026-01-18T21:00:00": [],
       "2026-01-18T22:00:00": [],
@@ -26,43 +25,44 @@
       "2026-01-19T14:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 71.15044309707054,
-          "azimuth_degrees": 87.80976261416549,
-          "distance_au": 206264806247097.4
+          "altitude_degrees": 71.15037465591601,
+          "azimuth_degrees": 87.8097113189309,
+          "distance_au": 206264806247097.44
         }
       ],
       "2026-01-19T15:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 82.50551753159398,
-          "azimuth_degrees": 101.70062235816965,
-          "distance_au": 206264806247097.44
+          "altitude_degrees": 82.50545039283718,
+          "azimuth_degrees": 101.70045761149157,
+          "distance_au": 206264806247097.47
         }
       ],
       "2026-01-19T16:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 85.28581235007677,
-          "azimuth_degrees": 247.9219331305988,
-          "distance_au": 206264806247097.38
+          "altitude_degrees": 85.28587595831905,
+          "azimuth_degrees": 247.92156128628758,
+          "distance_au": 206264806247097.44
         }
       ],
       "2026-01-19T17:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 74.04867550968406,
-          "azimuth_degrees": 269.8607581150275,
+          "altitude_degrees": 74.0487442230785,
+          "azimuth_degrees": 269.8606984335845,
           "distance_au": 206264806247097.47
         }
       ],
       "2026-01-19T18:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 62.685267014881966,
-          "azimuth_degrees": 277.7836657702379,
-          "distance_au": 206264806247097.44
+          "altitude_degrees": 62.68533516943733,
+          "azimuth_degrees": 277.7836246413653,
+          "distance_au": 206264806247097.47
         }
-      ]
+      ],
+      "2026-01-19T19:00:00": []
     }
   },
   "europe": {
@@ -70,7 +70,6 @@
     "latitude": 48.8566,
     "longitude": 2.3522,
     "star_data_by_hour": {
-      "2026-01-18T19:00:00": [],
       "2026-01-18T20:00:00": [],
       "2026-01-18T21:00:00": [],
       "2026-01-18T22:00:00": [],
@@ -86,56 +85,57 @@
       "2026-01-19T08:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 60.920635074438785,
-          "azimuth_degrees": 95.65193879660274,
-          "distance_au": 206264806247097.47
+          "altitude_degrees": 60.920576257896364,
+          "azimuth_degrees": 95.65186064532125,
+          "distance_au": 206264806247097.44
         }
       ],
       "2026-01-19T09:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 70.51953434233658,
-          "azimuth_degrees": 112.31449700781181,
-          "distance_au": 206264806247097.47
+          "altitude_degrees": 70.51947960774508,
+          "azimuth_degrees": 112.3143657349612,
+          "distance_au": 206264806247097.4
         }
       ],
       "2026-01-19T10:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 78.32201638225295,
-          "azimuth_degrees": 146.32714660483745,
-          "distance_au": 206264806247097.44
+          "altitude_degrees": 78.3219835490485,
+          "azimuth_degrees": 146.32684027147317,
+          "distance_au": 206264806247097.38
         }
       ],
       "2026-01-19T11:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 78.83672716157075,
-          "azimuth_degrees": 208.28723765098573,
+          "altitude_degrees": 78.83675527331644,
+          "azimuth_degrees": 208.28690519862164,
           "distance_au": 206264806247097.53
         }
       ],
       "2026-01-19T12:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 71.4361977292855,
-          "azimuth_degrees": 245.38775967938233,
-          "distance_au": 206264806247097.53
+          "altitude_degrees": 71.4362517057439,
+          "azimuth_degrees": 245.38761815416402,
+          "distance_au": 206264806247097.5
         }
       ],
       "2026-01-19T13:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 61.913779621039076,
-          "azimuth_degrees": 263.0023430828274,
-          "distance_au": 206264806247097.5
+          "altitude_degrees": 61.913838611153444,
+          "azimuth_degrees": 263.00226153082446,
+          "distance_au": 206264806247097.47
         }
       ],
       "2026-01-19T14:00:00": [],
       "2026-01-19T15:00:00": [],
       "2026-01-19T16:00:00": [],
       "2026-01-19T17:00:00": [],
-      "2026-01-19T18:00:00": []
+      "2026-01-19T18:00:00": [],
+      "2026-01-19T19:00:00": []
     }
   },
   "asia": {
@@ -143,47 +143,46 @@
     "latitude": 35.6895,
     "longitude": 139.6917,
     "star_data_by_hour": {
-      "2026-01-18T19:00:00": [],
       "2026-01-18T20:00:00": [],
       "2026-01-18T21:00:00": [],
       "2026-01-18T22:00:00": [],
       "2026-01-18T23:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 61.054949329496026,
-          "azimuth_degrees": 72.81626789810768,
-          "distance_au": 206264806247097.47
+          "altitude_degrees": 61.0548802104791,
+          "azimuth_degrees": 72.81625456539446,
+          "distance_au": 206264806247097.5
         }
       ],
       "2026-01-19T00:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 72.76218930630296,
-          "azimuth_degrees": 73.22647373604414,
-          "distance_au": 206264806247097.44
+          "altitude_degrees": 72.76211996888424,
+          "azimuth_degrees": 73.22648906128033,
+          "distance_au": 206264806247097.47
         }
       ],
       "2026-01-19T01:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 84.09242703359693,
-          "azimuth_degrees": 56.32375294058445,
+          "altitude_degrees": 84.09236670115956,
+          "azimuth_degrees": 56.32408933332206,
           "distance_au": 206264806247097.5
         }
       ],
       "2026-01-19T02:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 82.38853182853879,
-          "azimuth_degrees": 296.7344541367997,
+          "altitude_degrees": 82.38859664419711,
+          "azimuth_degrees": 296.7346463534376,
           "distance_au": 206264806247097.47
         }
       ],
       "2026-01-19T03:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 70.87783931124643,
-          "azimuth_degrees": 286.4730117016324,
+          "altitude_degrees": 70.87790898345034,
+          "azimuth_degrees": 286.47301895471804,
           "distance_au": 206264806247097.47
         }
       ],
@@ -198,16 +197,16 @@
       "2026-01-19T12:00:00": [
         {
           "star_name": "Betelgeuse",
-          "altitude_degrees": 60.11274644000735,
-          "azimuth_degrees": 158.6030578408077,
-          "distance_au": 206264806247095.5
+          "altitude_degrees": 60.11271971677234,
+          "azimuth_degrees": 158.60288656210278,
+          "distance_au": 206264806247095.44
         }
       ],
       "2026-01-19T13:00:00": [
         {
           "star_name": "Betelgeuse",
-          "altitude_degrees": 61.425843207023014,
-          "azimuth_degrees": 189.31509520971858,
+          "altitude_degrees": 61.42585507446391,
+          "azimuth_degrees": 189.31490970108803,
           "distance_au": 206264806247095.4
         }
       ],
@@ -215,7 +214,8 @@
       "2026-01-19T15:00:00": [],
       "2026-01-19T16:00:00": [],
       "2026-01-19T17:00:00": [],
-      "2026-01-19T18:00:00": []
+      "2026-01-19T18:00:00": [],
+      "2026-01-19T19:00:00": []
     }
   },
   "australia": {
@@ -223,7 +223,6 @@
     "latitude": -33.8688,
     "longitude": 151.2093,
     "star_data_by_hour": {
-      "2026-01-18T19:00:00": [],
       "2026-01-18T20:00:00": [],
       "2026-01-18T21:00:00": [],
       "2026-01-18T22:00:00": [],
@@ -242,51 +241,52 @@
       "2026-01-19T11:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 60.69161227679999,
-          "azimuth_degrees": 60.86965191449486,
-          "distance_au": 206264806247095.97
+          "altitude_degrees": 60.69154692710835,
+          "azimuth_degrees": 60.869767001649855,
+          "distance_au": 206264806247095.94
         },
         {
           "star_name": "Rigel",
-          "altitude_degrees": 64.05496812965119,
-          "azimuth_degrees": 8.825382549100038,
-          "distance_au": 206264806247096.03
+          "altitude_degrees": 64.05495665922595,
+          "azimuth_degrees": 8.825584635089154,
+          "distance_au": 206264806247095.97
         }
       ],
       "2026-01-19T12:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 70.01131545623848,
-          "azimuth_degrees": 33.88600309317383,
+          "altitude_degrees": 70.01127370542854,
+          "azimuth_degrees": 33.88622425321708,
           "distance_au": 206264806247095.9
         },
         {
           "star_name": "Rigel",
-          "altitude_degrees": 62.3236015315413,
-          "azimuth_degrees": 335.65655151756954,
+          "altitude_degrees": 62.323632397079116,
+          "azimuth_degrees": 335.6567318143081,
           "distance_au": 206264806247096.03
         }
       ],
       "2026-01-19T13:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 72.57921001953582,
-          "azimuth_degrees": 348.5408896832516,
-          "distance_au": 206264806247095.9
+          "altitude_degrees": 72.57922491041802,
+          "azimuth_degrees": 348.54117410625133,
+          "distance_au": 206264806247095.88
         }
       ],
       "2026-01-19T14:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 66.0821451685212,
-          "azimuth_degrees": 311.1097068982638,
-          "distance_au": 206264806247095.78
+          "altitude_degrees": 66.0822016965882,
+          "azimuth_degrees": 311.1098684792596,
+          "distance_au": 206264806247095.84
         }
       ],
       "2026-01-19T15:00:00": [],
       "2026-01-19T16:00:00": [],
       "2026-01-19T17:00:00": [],
-      "2026-01-19T18:00:00": []
+      "2026-01-19T18:00:00": [],
+      "2026-01-19T19:00:00": []
     }
   },
   "africa": {
@@ -294,65 +294,45 @@
     "latitude": -1.2921,
     "longitude": 36.8219,
     "star_data_by_hour": {
-      "2026-01-18T19:00:00": [
+      "2026-01-18T20:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 63.74524450914713,
-          "azimuth_degrees": 127.28006642529428,
+          "altitude_degrees": 73.26619134774855,
+          "azimuth_degrees": 157.79525946591986,
           "distance_au": 206264806247095.88
         },
         {
           "star_name": "Betelgeuse",
-          "altitude_degrees": 77.40117505484963,
-          "azimuth_degrees": 46.17730024562537,
+          "altitude_degrees": 79.48789599159953,
+          "azimuth_degrees": 325.9703320958724,
           "distance_au": 206264806247095.44
         },
         {
           "star_name": "Rigel",
-          "altitude_degrees": 83.03787139366985,
-          "azimuth_degrees": 188.74743160652005,
+          "altitude_degrees": 72.54384134509203,
+          "azimuth_degrees": 246.27889117142882,
           "distance_au": 206264806247095.94
-        }
-      ],
-      "2026-01-18T20:00:00": [
-        {
-          "star_name": "Sirius",
-          "altitude_degrees": 73.26622492096703,
-          "azimuth_degrees": 157.79553102895298,
-          "distance_au": 206264806247095.78
-        },
-        {
-          "star_name": "Betelgeuse",
-          "altitude_degrees": 79.4878462755665,
-          "azimuth_degrees": 325.9699333202242,
-          "distance_au": 206264806247095.38
-        },
-        {
-          "star_name": "Rigel",
-          "altitude_degrees": 72.54376002371832,
-          "azimuth_degrees": 246.27900275517413,
-          "distance_au": 206264806247095.97
         }
       ],
       "2026-01-18T21:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 72.42011133650543,
-          "azimuth_degrees": 208.00405910958006,
-          "distance_au": 206264806247095.9
+          "altitude_degrees": 72.42015308398021,
+          "azimuth_degrees": 208.00381334180636,
+          "distance_au": 206264806247095.84
         },
         {
           "star_name": "Betelgeuse",
-          "altitude_degrees": 67.36004846030558,
-          "azimuth_degrees": 292.908244467932,
+          "altitude_degrees": 67.36013036053832,
+          "azimuth_degrees": 292.90832945548385,
           "distance_au": 206264806247095.44
         }
       ],
       "2026-01-18T22:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 62.136785595430524,
-          "azimuth_degrees": 234.97531171736443,
+          "altitude_degrees": 62.1368584677857,
+          "azimuth_degrees": 234.97521711501457,
           "distance_au": 206264806247095.84
         }
       ],
@@ -377,23 +357,43 @@
       "2026-01-19T17:00:00": [
         {
           "star_name": "Rigel",
-          "altitude_degrees": 61.249876584979916,
-          "azimuth_degrees": 104.74465748820944,
-          "distance_au": 206264806247095.9
+          "altitude_degrees": 61.2497890370102,
+          "azimuth_degrees": 104.74461749226141,
+          "distance_au": 206264806247095.97
         }
       ],
       "2026-01-19T18:00:00": [
         {
           "star_name": "Betelgeuse",
-          "altitude_degrees": 65.28607196666145,
-          "azimuth_degrees": 69.0465869311832,
+          "altitude_degrees": 65.2859872859581,
+          "azimuth_degrees": 69.04665943221684,
+          "distance_au": 206264806247095.34
+        },
+        {
+          "star_name": "Rigel",
+          "altitude_degrees": 75.34799399797836,
+          "azimuth_degrees": 118.41618826018986,
+          "distance_au": 206264806247095.94
+        }
+      ],
+      "2026-01-19T19:00:00": [
+        {
+          "star_name": "Sirius",
+          "altitude_degrees": 64.52283938417604,
+          "azimuth_degrees": 128.50617410747276,
+          "distance_au": 206264806247095.75
+        },
+        {
+          "star_name": "Betelgeuse",
+          "altitude_degrees": 78.09268956864318,
+          "azimuth_degrees": 42.92135064689827,
           "distance_au": 206264806247095.4
         },
         {
           "star_name": "Rigel",
-          "altitude_degrees": 75.34807370357089,
-          "azimuth_degrees": 118.41635124018472,
-          "distance_au": 206264806247095.84
+          "altitude_degrees": 82.82213800269295,
+          "azimuth_degrees": 196.48417977813432,
+          "distance_au": 206264806247095.9
         }
       ]
     }
@@ -403,74 +403,73 @@
     "latitude": -23.5505,
     "longitude": -46.6333,
     "star_data_by_hour": {
-      "2026-01-18T19:00:00": [],
       "2026-01-18T20:00:00": [],
       "2026-01-18T21:00:00": [],
       "2026-01-18T22:00:00": [],
       "2026-01-18T23:00:00": [
         {
           "star_name": "Rigel",
-          "altitude_degrees": 63.739334220095024,
-          "azimuth_degrees": 57.795511694345244,
-          "distance_au": 206264806247096.0
+          "altitude_degrees": 63.73926515306964,
+          "azimuth_degrees": 57.79563542921963,
+          "distance_au": 206264806247095.97
         }
       ],
       "2026-01-19T00:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 61.2532727805252,
-          "azimuth_degrees": 81.88776745589794,
+          "altitude_degrees": 61.253191865009974,
+          "azimuth_degrees": 81.88782410593234,
           "distance_au": 206264806247095.9
         },
         {
           "star_name": "Rigel",
-          "altitude_degrees": 73.15199617709128,
-          "azimuth_degrees": 25.27857813920262,
-          "distance_au": 206264806247095.97
+          "altitude_degrees": 73.15196128622195,
+          "azimuth_degrees": 25.278857702015742,
+          "distance_au": 206264806247096.0
         }
       ],
       "2026-01-19T01:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 74.56414131576031,
-          "azimuth_degrees": 66.56298652803322,
+          "altitude_degrees": 74.56406625350836,
+          "azimuth_degrees": 66.56314003305123,
           "distance_au": 206264806247095.84
         },
         {
           "star_name": "Rigel",
-          "altitude_degrees": 72.87735596445184,
-          "azimuth_degrees": 332.63413242245224,
+          "altitude_degrees": 72.87739356022985,
+          "azimuth_degrees": 332.6344038542249,
           "distance_au": 206264806247095.9
         }
       ],
       "2026-01-19T02:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 83.18914035038677,
-          "azimuth_degrees": 357.84597143791706,
-          "distance_au": 206264806247095.88
+          "altitude_degrees": 83.18914342776807,
+          "azimuth_degrees": 357.84669229409343,
+          "distance_au": 206264806247095.97
         },
         {
           "star_name": "Rigel",
-          "altitude_degrees": 63.212664528498685,
-          "azimuth_degrees": 301.2817072217155,
-          "distance_au": 206264806247096.0
+          "altitude_degrees": 63.21273450557602,
+          "azimuth_degrees": 301.2818271216007,
+          "distance_au": 206264806247095.97
         }
       ],
       "2026-01-19T03:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 74.11400130341285,
-          "azimuth_degrees": 292.5426152819798,
+          "altitude_degrees": 74.11407700931076,
+          "azimuth_degrees": 292.54276142839876,
           "distance_au": 206264806247095.84
         }
       ],
       "2026-01-19T04:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 60.768983510628765,
-          "azimuth_degrees": 277.777050591413,
-          "distance_au": 206264806247095.9
+          "altitude_degrees": 60.76906480324531,
+          "azimuth_degrees": 277.7771061931967,
+          "distance_au": 206264806247095.84
         }
       ],
       "2026-01-19T05:00:00": [],
@@ -486,7 +485,8 @@
       "2026-01-19T15:00:00": [],
       "2026-01-19T16:00:00": [],
       "2026-01-19T17:00:00": [],
-      "2026-01-19T18:00:00": []
+      "2026-01-19T18:00:00": [],
+      "2026-01-19T19:00:00": []
     }
   }
 }
