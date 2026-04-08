@@ -66,7 +66,7 @@
         {
           "star_name": "Vega",
           "altitude_degrees": 85.15193953898164,
-          "azimuth_degrees": 111.35488275680918,
+          "azimuth_degrees": 111.35488275680919,
           "distance_au": 206264806247096.94
         }
       ]
@@ -128,7 +128,7 @@
       "2026-04-09T07:00:00": [
         {
           "star_name": "Vega",
-          "altitude_degrees": 69.21573604882232,
+          "altitude_degrees": 69.21573604882234,
           "azimuth_degrees": 250.62587702712858,
           "distance_au": 206264806247096.9
         }
@@ -327,7 +327,7 @@
       "2026-04-08T14:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 66.55227744916868,
+          "altitude_degrees": 66.5522774491687,
           "azimuth_degrees": 132.24491449751517,
           "distance_au": 206264806247096.66
         },
@@ -367,8 +367,8 @@
       "2026-04-08T16:00:00": [
         {
           "star_name": "Sirius",
-          "altitude_degrees": 70.44823338065537,
-          "azimuth_degrees": 217.08953852383212,
+          "altitude_degrees": 70.44823338065535,
+          "azimuth_degrees": 217.08953852383215,
           "distance_au": 206264806247096.62
         },
         {
